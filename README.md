@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu Nair</h1>
 <h3 align="center">Full Stack Web Developer with a strong grasp of latest technologies.</h3>
 
-- 🔭 I’m currently working on [Zoom Out - My Personsl Portfolio Website](https://zoom-out-24.netlify.app/)
+- 🔭 I’m currently working on [Zoom Out - My Personal Portfolio Website](https://zoom-out-24.netlify.app/)
 
 - 🌱 I’m currently improving my **Web Development Skills**
 
